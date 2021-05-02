@@ -18,6 +18,7 @@ Tutorials 0-9 listed under the “Tutorial Section” of https://sqlzoo.net/wiki
 ### Outcome
 * I learned to interpret and perform basic queries from relational databases. 
 
+<br />
 
 ## Summary
 
